@@ -8,7 +8,7 @@
 $hostname = "10.10.23.184";
 $db_name = "db_a71391";
 $db_user = "a71391";
-$db_passwd = "2e6b70";
+$db_passwd = "******";
 
 // mostra uma mensagem de erro vinda do mysql
 function showerror($db)
